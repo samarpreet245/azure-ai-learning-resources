@@ -10,3 +10,5 @@ Welcome to the ultimate starter guide for learning Cloud and AI using Microsoft 
 
 ## 💡 How to Use
 Click on any path above to access official, free interactive modules directly on Microsoft Learn.
+## 📚 Study Guides
+- 📖 [Azure Fundamentals (AZ-900) Quick Cheat Sheet](./AZ-900-Study-Guide.md)
